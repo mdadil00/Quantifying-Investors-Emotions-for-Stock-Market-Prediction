@@ -29,7 +29,7 @@ This project explores the field of behavioral finance by examining the relations
 5. *Prediction*: The trained model predicts actual_return, storing the predictions in a new column. The DataFrame with predictions is saved to a new Excel file for further analysis and validation.
 
 ## Results
-- *Model Performance*: Achieved an R-squared value of 0.58 and a correlation value of 0.76, indicating a strong linear relationship and predictive accuracy.
+- *Model Performance*: Achieved an R-squared value of 0.68 and a correlation value of 0.82, indicating a strong linear relationship and predictive accuracy.
 - *Investor Behavior Insights*: Noted a significant interest among social media investors in firms with larger trading volumes, higher volatility, and greater market capitalization.
 
 ## Code and Data
